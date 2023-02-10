@@ -6,3 +6,6 @@
 [Show what you know: Explain Program Events Monkey](https://youtu.be/23IM8vcHfr8)<br>
 # Week 4
 [Show what you know: Shapes Variables](https://www.youtube.com/watch?v=sprCJ3QNKtM)<br>
+
+# Week 5
+[Show what you know: Conditional Loops](https://youtu.be/bLi6s7L1SKA)<br>
