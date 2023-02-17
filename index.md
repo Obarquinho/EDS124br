@@ -9,3 +9,6 @@
 
 # Week 5
 [Show what you know: Conditional Loops](https://youtu.be/bLi6s7L1SKA)<br>
+
+# Week 6
+[Show what you know: If Else](https://www.youtube.com/watch?v=sE_UyYv6WM0)<br>
