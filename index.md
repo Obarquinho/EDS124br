@@ -12,3 +12,6 @@
 
 # Week 6
 [Show what you know: If Else](https://www.youtube.com/watch?v=sE_UyYv6WM0)<br>
+
+# Week 7
+[Show what you know: Nested If Else](https://youtu.be/Ms1Rc4aC0Lg)<br>
