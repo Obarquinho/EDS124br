@@ -15,3 +15,6 @@
 
 # Week 7
 [Show what you know: Nested If Else](https://youtu.be/Ms1Rc4aC0Lg)<br>
+
+# Week 8
+[Show what you know: Compound Conditionals](https://youtu.be/khFqky9AV-Q)<br>
