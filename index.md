@@ -18,3 +18,6 @@
 
 # Week 8
 [Show what you know: Compound Conditionals](https://youtu.be/khFqky9AV-Q)<br>
+
+# Week 9
+[Show what you know: Abstraction](https://youtu.be/VBpqNeS_3Y8)<br>
