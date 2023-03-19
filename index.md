@@ -21,3 +21,6 @@
 
 # Week 9
 [Show what you know: Abstraction](https://youtu.be/VBpqNeS_3Y8)<br>
+
+# Week 10
+[Show what you know: Lists](https://youtu.be/rZ535cfoPP0)<br>
